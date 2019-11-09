@@ -1,0 +1,11 @@
+/home/evdillen/GITRepositories/wiskunde/Prime_Parallel/bin/Debug/netcoreapp2.2/Prime_Parallel.deps.json
+/home/evdillen/GITRepositories/wiskunde/Prime_Parallel/bin/Debug/netcoreapp2.2/Prime_Parallel.runtimeconfig.json
+/home/evdillen/GITRepositories/wiskunde/Prime_Parallel/bin/Debug/netcoreapp2.2/Prime_Parallel.runtimeconfig.dev.json
+/home/evdillen/GITRepositories/wiskunde/Prime_Parallel/bin/Debug/netcoreapp2.2/Prime_Parallel.dll
+/home/evdillen/GITRepositories/wiskunde/Prime_Parallel/bin/Debug/netcoreapp2.2/Prime_Parallel.pdb
+/home/evdillen/GITRepositories/wiskunde/Prime_Parallel/obj/Debug/netcoreapp2.2/Prime_Parallel.csprojAssemblyReference.cache
+/home/evdillen/GITRepositories/wiskunde/Prime_Parallel/obj/Debug/netcoreapp2.2/Prime_Parallel.csproj.CoreCompileInputs.cache
+/home/evdillen/GITRepositories/wiskunde/Prime_Parallel/obj/Debug/netcoreapp2.2/Prime_Parallel.AssemblyInfoInputs.cache
+/home/evdillen/GITRepositories/wiskunde/Prime_Parallel/obj/Debug/netcoreapp2.2/Prime_Parallel.AssemblyInfo.cs
+/home/evdillen/GITRepositories/wiskunde/Prime_Parallel/obj/Debug/netcoreapp2.2/Prime_Parallel.dll
+/home/evdillen/GITRepositories/wiskunde/Prime_Parallel/obj/Debug/netcoreapp2.2/Prime_Parallel.pdb
